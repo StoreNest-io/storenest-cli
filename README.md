@@ -256,8 +256,7 @@ my-awesome-plugin/
 
 ### Getting Help
 
-- Check the [Plugin Developer Documentation](../docs/plugin-developer-docs.html)
-- Review the [API Reference](../docs/api-reference.md)
+- Review the [API Reference](https://plugins.storenest.hr/)
 - Join the [Developer Community](https://discord.gg/cRYwEDUaDx)
 - Contact support at [developer-support@storenest.hr](mailto:developer-support@storenest.hr)
 
