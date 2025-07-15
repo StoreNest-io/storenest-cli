@@ -131,7 +131,7 @@ When ready to publish:
 - **Documentation**: [External Plugin Development Guide](../docs/external-plugin-development.md)
 - **Examples**: Check the marketplace for plugin examples
 - **Community**: Join the Storenest developer community
-- **Support**: Contact developer-support@storenest.io
+- **Support**: Contact developer-support@storenest.hr
 
 ## License
 

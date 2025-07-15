@@ -8,7 +8,7 @@ The CLI tool is included with the Storenest admin application. To use it:
 
 ```bash
 # From the project root
-node cli/storenest-plugin.js [command]
+node storenest-plugin.js [command]
 ```
 
 ## Available Commands
@@ -18,7 +18,7 @@ node cli/storenest-plugin.js [command]
 Creates a new plugin project with the basic file structure and configuration.
 
 ```bash
-node cli/storenest-plugin.js init my-awesome-plugin
+node storenest-plugin.js init my-awesome-plugin
 ```
 
 This will create:
@@ -34,7 +34,7 @@ This will create:
 Validates your plugin's configuration and structure.
 
 ```bash
-node cli/storenest-plugin.js validate
+node storenest-plugin.js validate
 ```
 
 Checks:
@@ -49,7 +49,7 @@ Checks:
 Builds and packages your plugin for deployment.
 
 ```bash
-node cli/storenest-plugin.js build
+node storenest-plugin.js build
 ```
 
 Creates:
@@ -63,7 +63,7 @@ Creates:
 Displays detailed information about your plugin.
 
 ```bash
-node cli/storenest-plugin.js info
+node storenest-plugin.js info
 ```
 
 Shows:
@@ -78,7 +78,7 @@ Shows:
 Runs the plugin's test suite.
 
 ```bash
-node cli/storenest-plugin.js test
+node storenest-plugin.js test
 ```
 
 ### `publish` - Publish plugin to marketplace
@@ -86,7 +86,7 @@ node cli/storenest-plugin.js test
 Publishes your plugin to the Storenest plugin marketplace.
 
 ```bash
-node cli/storenest-plugin.js publish
+node storenest-plugin.js publish
 ```
 
 ## Plugin Configuration
