@@ -258,8 +258,8 @@ my-awesome-plugin/
 
 - Check the [Plugin Developer Documentation](../docs/plugin-developer-docs.html)
 - Review the [API Reference](../docs/api-reference.md)
-- Join the [Developer Community](https://community.storenest.com)
-- Contact support at [support@storenest.com](mailto:support@storenest.com)
+- Join the [Developer Community](https://discord.gg/cRYwEDUaDx)
+- Contact support at [developer-support@storenest.hr](mailto:developer-support@storenest.hr)
 
 ## License
 
