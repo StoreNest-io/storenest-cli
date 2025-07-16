@@ -83,11 +83,12 @@ node storenest-plugin.js test
 
 ### `publish` - Publish plugin to marketplace
 
-Publishes your plugin to the Storenest plugin marketplace.
+Publish your plugin to the Storenest plugin marketplace.
 
-```bash
-node storenest-plugin.js publish
-```
+(To be able to publish you plugin, you need to apply for developer status on Storenest dashboard)
+[Developer marketplace](https://app.storenest.io/settings/developer)
+
+
 
 ## Plugin Configuration
 
